@@ -9,16 +9,129 @@ Inspired by [Lisardo's Kofi Method](https://www.asiteaboutnothing.net/w_ultimate
 ### Link to AnkiWeb
 [Anki Web](https://ankiweb.net/shared/info/778251741?cb=1704294165043)
 
+## What is the KOFI Method?
+
+KOFI (Konjugation First) is a language-learning approach: **learn all the forms of German conjugation before even starting to formally study the language**. This deck helps you master German verb patterns through spaced repetition with Anki flashcards.
+
 ## What's Included
 
-1. I would read Lisardo's explanation on how to pace your study [Link](https://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html#how)
-2. I would go to "Filtering out Konjunktiv II Präteritum" to see about one modification I would recommend to filter in this deck.
-*If you filter out the deck then the amount of cards listed won't match the verb list below. Check manually*
+This deck contains **108 German verbs** with comprehensive conjugation forms, totaling over **2,300 flashcards**. Each verb includes:
 
-Here is the list of verbs. The numbers tell you how many cards to add when you're ready for a new verb.
-https://jakubmarian.com/list-of-irregular-strong-german-verbs/
+- **Infinitiv** (Infinitive)
+- **Partizip I** (Present Participle)
+- **Partizip II** (Past Participle)
+- **Präsens** (Present Tense) - 6 cards
+- **Indikativ Präteritum** (Simple Past) - 6 cards
+- **Konjunktiv II Präteritum** (Subjunctive Past) - 6 cards
+- **Imperativs** (Imperative) - 2 cards
 
-(List of Verbs)
+## Visual and Verbal Cues
+
+Each tense has **unique visual cues** to help you quickly identify what you're being asked:
+
+### 1. Present (Präsens)
+- **Visual**: ⊙ symbol (bull's eye)
+- **Border**: Green
+- **Verbal cue**: "Jetzt gerade, ⊙" (Right now)
+- **Example**: ⊙ Jetzt gerade, ⊙ ich [...sprechen...]
+
+### 2. Simple Past (Indikativ Präteritum)
+- **Visual**: ← symbol (left arrow)
+- **Border**: Brown/Orange
+- **Verbal cue**: "Gestern, ←" (Yesterday)
+- **Example**: ← Gestern, ← ich [...sprach...]
+
+### 3. Subjunctive Past (Konjunktiv II Präteritum)
+- **Visual**: ↫ symbol (looping arrow)
+- **Border**: Purple
+- **Verbal cue**: "Wenn es möglich wäre, ↫" (If it were possible)
+- **Example**: ↫ Wenn es möglich wäre, ↫ ich [...spräche...]
+- **Note**: This tense is rarely used in everyday German except for modal verbs. You can filter it out if desired (see below).
+
+### 4. Imperative (Imperativs)
+- **Visual**: ¡ ! symbols
+- **Border**: Red
+- **Verbal cue**: "Los jetzt, !" (Come on now!)
+- **Example**: ¡ Los jetzt, ! [...sprich...]
+
+### 5. Participles (Partizip I & II)
+- **Visual**: ~ symbol (wave)
+- **Border**: Blue
+- **Verbal cues**: "Beim [...sprechend...] denkt er nach" or "Das Objekt ist [...gesprochen...] worden"
+
+### 6. Infinitive (Infinitiv)
+- **Visual**: Clean presentation
+- **Border**: Beige
+- **Verbal cue**: "Das Verb in (er spricht) ist zu [...sprechen...]"
+
+## Resource Links on Every Card
+
+Each flashcard includes helpful links on the back:
+- **🔗 Duden**: Authoritative German conjugation and definition
+- **🔗 dict.cc**: Translations and example sentences
+- **🔗 Forvo 🔊**: Native speaker pronunciations
+
+## How to Pace Your Study
+
+### Study Every Day
+The key to success with this deck is **daily practice**. Even 10-15 minutes per day is enough. Skip a day and your review queue will pile up!
+
+### Recommended Schedule
+
+#### Week 1-4: Start with Modal Verbs (4-6 verbs)
+Modal verbs are essential in German and appear in every conversation:
+1. **können** (can) - 21 cards
+2. **müssen** (must) - 21 cards
+3. **sollen** (should) - 15 cards
+4. **dürfen** (may) - 21 cards
+5. **mögen** (like) - 21 cards
+6. **wollen** (want) - ~20 cards
+
+**How to add cards**:
+```
+Click deck name → Custom Study → Increase today's new card limit → 21
+```
+
+#### Month 2 onwards: One verb every 2-3 days
+After mastering modal verbs, add one new verb every 2-3 days. Most verbs have 23 cards.
+
+**Important**: Always clear your review queue (green and red numbers to zero) before adding new cards!
+
+### Checking Card Count
+Before adding a new verb, check how many cards it has:
+- On **desktop**: Click gear icon → Options → Description tab
+- On **mobile**: Long-press deck → Options → Deck description
+- Or see the **List of Verbs** section below
+
+## Filtering out Konjunktiv II Präteritum
+
+The Konjunktiv II Präteritum is not commonly used in everyday German. However, it IS used with modal verbs.
+
+**To remove it (except for modal verbs)**:
+1. From main Anki screen, click "Browse"
+2. In search field, type: `"deck:KOFI German" tag:tense:Konjunktiv_II_Präteritum -tag:modal_verb`
+3. Select all results (Ctrl+A or Cmd+A)
+4. Right click → Suspend Cards
+
+## Why Not Other Tenses?
+
+Other German tenses can be formed using the base forms in this deck:
+
+- **Perfekt** (Present Perfect): haben/sein (Präsens) + Partizip II
+  - "Du hast gesprochen" (You have spoken)
+
+- **Plusquamperfekt** (Past Perfect): haben/sein (Präteritum) + Partizip II
+  - "Du hattest gesprochen" (You had spoken)
+
+- **Futur I** (Future): werden (Präsens) + Infinitiv
+  - "Du wirst sprechen" (You will speak)
+
+- **Futur II** (Future Perfect): werden (Präsens) + Partizip II + haben/sein
+  - "Du wirst gesprochen haben" (You will have spoken)
+
+You can check other forms at [Duden.de](https://www.duden.de/konjugation/sprechen).
+
+## List of Verbs
 1. Können: 21 cards
 2. Müssen: 21 cards
 3. Sollen: 15 cards
@@ -128,8 +241,16 @@ https://jakubmarian.com/list-of-irregular-strong-german-verbs/
 107. Ziehen: 23 cards
 108. Zwingen: 23 cards
 
-List of Tags:
-1. By Subject
+## Tags: Filtering by Tense, Subject and More
+
+Advanced students can create filtered decks using tags. Combine tags to focus on specific areas.
+
+**Example**: To practice all present tense cards with "ich":
+```
+tag:tense:Präsens tag:subject:ich
+```
+
+### Tags by Subject
 - tag:subject:ich
 - tag:subject:du
 - tag:subject:er/sie/es
@@ -138,7 +259,7 @@ List of Tags:
 - tag:subject:sie/Sie
 - tag:subject:ihr/Sie
 
-2. By Tense
+### Tags by Tense
 - tag:tense:Infinitiv
 - tag:tense:Partizip_I
 - tag:tense:Partizip_II
@@ -147,70 +268,52 @@ List of Tags:
 - tag:tense:Indikativ_Präteritum
 - tag:tense:Konjunktiv_II_Präteritum
 
-3. By Verb Ending
+### Tags by Verb Ending
 - tag:ends_in_en
 - tag:ends_in_ern
 - tag:ends_in_eln
 
-4. By German Verb Name
-- tag:verb:sterben
-- tags:verb:kriechen
-- tags:verb:messen
-… etc. from verb list
+### Tags by Verb Name
+- tag:verb:sein
+- tag:verb:haben
+- tag:verb:werden
+- tag:verb:können
+- tag:verb:müssen
+- ... (one tag for each of the 108 verbs)
 
-7. Misc Tags
+### Special Tags
 - tag:modal_verb
 
-## Conjugation Forms Included
+## Why These Forms?
 
-- Präsens (Present Tense): "Du sprichst" (You speak)
-- Indikativ Präteritum (Simple Past Tense): "Du sprachst" (You spoke)
-- Konjunktiv II Präteritum (Subjunctive Past Tense): "Du sprächest" (You spoke)
-- Imperativ (Imperative Mood): "Sprich!" (Speak!)
-- Partizip I (Present Participle): "sprechend" (speaking)
-- Partizip II (Past Participle): "gesprochen" (spoken)
-- Infinitiv mit zu (Infinitive with "zu"): "zu sprechen" (to speak)
+These forms are the building blocks of German verb conjugation:
 
-These forms are the building blocks of German verb conjugation.
+- **Präsens** (Present): "Du sprichst" (You speak)
+- **Indikativ Präteritum** (Simple Past): "Du sprachst" (You spoke)
+- **Konjunktiv II Präteritum** (Subjunctive Past): "Du sprächest" (You would speak)
+- **Imperativ** (Imperative): "Sprich!" (Speak!)
+- **Partizip I** (Present Participle): "sprechend" (speaking)
+- **Partizip II** (Past Participle): "gesprochen" (spoken)
+- **Infinitiv** (Infinitive): "zu sprechen" (to speak)
 
-### Filtering out Konjunktiv II Präteritum
+## Conjugation Resources
 
-The Konjunktiv II Präteritum is not commonly used in everyday German. But, it is still included in this deck for those who would like to use it.
-I on the other hand will choose to remove it, BUT, not for modal verbs where it is used in everyday German.
+- [Duden Conjugation](https://www.duden.de/konjugation) - Authoritative German conjugation reference
+- [Verbformen.de](https://www.verbformen.de) - Comprehensive conjugation tables
+- [Jakub Marian's List](https://jakubmarian.com/list-of-irregular-strong-german-verbs/) - List of irregular/strong verbs
 
-If you would like to do the same follow these instructions:
-1. From the main Anki screen click on top button "Browse"
-2. You should see a search field with placeholder text saying "Search cards/notes..."
-3. Type in the text within the parentheses -> ("deck:KOFI German" tag:tense:Konjunktiv_II_Präteritum -tag:modal_verb)
-4. Click on the first field and then scroll all the way to bottom. Shift + Left Click on the last field.
-5. Right click and the menu should show "Cards" at the bottom. Hover over that and click  a
+## Getting Started
 
-## Why Not the Rest of the Forms?
+1. **Install Anki**: [Desktop](https://apps.ankiweb.net/) | [iOS](https://apps.apple.com/app/ankimobile-flashcards/id373493387) | [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+2. **Download the deck** from [AnkiWeb](https://ankiweb.net/shared/info/778251741)
+3. **Start with modal verbs**: Add 21 cards for "können"
+4. **Study daily**: Even just 10-15 minutes
+5. **Add new verbs gradually**: One verb every 2-3 days
 
-While other tenses and forms exist in German, they can often be formed using the key forms included in this deck:
+## Credits
 
-- Perfekt (Present Perfect): haben/sein (in Präsens form) + Partizip II
-  "Du hast gesprochen" (You have spoken)
+This deck is inspired by Lisardo's excellent [KOFI Method](https://www.asiteaboutnothing.net/w_ultimate_italian_conjugation.html) for Italian, Spanish, and French conjugation.
 
-- Plusquamperfekt (Past Perfect): haben/sein (in Präteritum form) + Partizip II
-  "Du hattest gesprochen" (You had spoken)
+---
 
-- Futur I (Future I): werden (in Präsens form) + Infinitiv
-  "Du wirst sprechen" (You will speak)
-
-- Futur II (Future Perfect): werden (in Präsens form) + Partizip II + haben/sein (Infinitiv)
-  "Du wirst gesprochen haben" (You will have spoken)
-
-- Konjunktiv I and II (Subjunctive I and II): Based on Präsens or Präteritum forms
-  Konjunktiv I: "Du sprechest" (You speak, indirect speech)
-
-You should still give a glance at the other forms and can do so through [Duden.de](https://www.duden.de/konjugation/sprechen).
-
-
-## Steps to setup (WORK IN PROGRESS)
-
-Steps:
-
-1. Setup Azure Ai Services account https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
-
-- Explain the amount created should not cost them anything since 500,000 use of characters is free
+**Happy learning! Viel Erfolg! 🚀**
