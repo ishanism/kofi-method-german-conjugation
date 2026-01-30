@@ -4,3 +4,4 @@ env
 audio_files/*
 !audio_files/README.md
 *.apkg
+!kofi_german_conjugation.apkg
