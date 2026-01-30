@@ -9,8 +9,15 @@ load_dotenv()
 speech_key = os.environ.get("SPEECH_KEY")
 speech_region = os.environ.get("SPEECH_REGION")
 
+# Flag to check if speech synthesis is available
+SPEECH_AVAILABLE = bool(speech_key and speech_region)
+
 
 def synthesize_speech(text, filename):
+    if not SPEECH_AVAILABLE:
+        # Return False if Azure credentials are not configured
+        return False
+        
     speech_config = speechsdk.SpeechConfig(
         subscription=speech_key, region=speech_region
     )
@@ -66,11 +73,13 @@ def conjugated_audio(verb, form):
         if synthesize_speech(form, filename):
             print("file create", filename)
             return filename
+        else:
+            # Return a placeholder if audio generation is not available
+            print(f"Audio generation skipped (no Azure credentials): {filename}")
+            return filename  # Return the path anyway, even if file doesn't exist
     else:
         print(f"File already exists, skipping: {filename}")
         return filename
-    print("error creating speech file?")
-    exit()
 
 
 def synthesize_template_speech():

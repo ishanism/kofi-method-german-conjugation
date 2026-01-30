@@ -8,16 +8,16 @@ person_order = ["tag:ich", "tag:du", "tag:er/sie/es",
                 "tag:wir", "tag:ihr", "tag:sie/Sie", "tag:ihr/Sie"]
 
 
-modal_verbs = ["können", "müssen", "wollen", "sollen", "dürfen", "mögen"]
+modal_verbs = ["können", "müssen", "sollen", "dürfen", "mögen"]
 
 templates = {
-    "Präsens": "⊙ Jetzt gerade, ⊙<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> über die Vergangenheit.",
-    "Ind. Präteritum": "← Zu dieser Zeit, oft, ←<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
-    "Sub. Präteritum": "↫ Es war überraschend, dass ↫<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> gestern über die Vergangenheit",
-    "Imperativs": "Bitte, Mann, <br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> jetzt!",
-    "Partizip I": "Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er an die Vergangenheit",
-    "Partizip II": "Das Objekt is <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> worden",
-    "Infinitiv": "Das Verb in<br><span class=\"cloze_hilite\"> er {1} </span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span>"
+    "Präsens": "<div class=\"present-border\">⊙ Jetzt gerade, ⊙<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
+    "Ind. Präteritum": "<div class=\"preterit-border\">← Gestern, ←<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
+    "Sub. Präteritum": "<div class=\"subjunctive-border\">↫ Wenn es möglich wäre, ↫<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
+    "Imperativs": "<div class=\"imperative-border\">! Los, jetzt !<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
+    "Partizip I": "<div class=\"participle-border\">~ Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er daran ~</div>",
+    "Partizip II": "<div class=\"participle-border\">~ Das Objekt ist <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> worden ~</div>",
+    "Infinitiv": "<div class=\"infinitive-border\">Das Verb in<br><span class=\"cloze_hilite\">er {1}</span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span></div>"
 }
 
 # Borrowed from Lisardo https://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html#tags
@@ -287,5 +287,68 @@ Snippets:
 
 .orange {
   color: rgb(255, 128, 64);"
+}
+
+/* Tense-specific colored borders (similar to French KOFI deck) */
+.present-border {
+  border: 3px solid rgb(98, 151, 85); /* green for present */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.preterit-border {
+  border: 3px solid rgb(210, 142, 2); /* brown/orange for past */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.subjunctive-border {
+  border: 3px solid rgb(136, 136, 198); /* purple for subjunctive */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.imperative-border {
+  border: 3px solid rgb(205, 92, 92); /* red for imperative */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.participle-border {
+  border: 3px solid rgb(113, 171, 194); /* blue for participles */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.infinitive-border {
+  border: 3px solid rgb(209, 199, 158); /* beige for infinitive */
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+/* Resource links styling */
+.resource_links {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 10px;
+}
+
+.resource-link {
+  color: rgb(88, 157, 246);
+  text-decoration: none;
+  border-bottom: 1px dashed rgb(88, 157, 246);
+  padding: 2px 5px;
+  margin: 0 3px;
+}
+
+.resource-link:hover {
+  color: rgb(255, 128, 64);
+  border-bottom: 1px solid rgb(255, 128, 64);
 }
 """

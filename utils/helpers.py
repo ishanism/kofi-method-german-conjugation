@@ -128,8 +128,22 @@ def order_notes(notes):
 
 def make_note(model, sentence, note, tags, form_audio_filename):
 
-    # Extract tense name from tags
+    # Extract verb name and tense from tags
     tense_name = next((tag.replace("tense:", "") for tag in tags if "tense:" in tag), None)
+    verb_name = next((tag.replace("verb:", "") for tag in tags if "verb:" in tag), None)
+    
+    # Create resource links
+    links = ""
+    if verb_name:
+        # Link to Duden (authoritative German dictionary with conjugations)
+        duden_url = f"https://www.duden.de/konjugation/{verb_name}"
+        # Link to dict.cc for translations
+        dictcc_url = f"https://www.dict.cc/?s={verb_name}"
+        # Link to Forvo for pronunciation
+        forvo_url = f"https://forvo.com/search/{verb_name}/de/"
+        
+        links = f'<a href="{duden_url}" class="resource-link">Duden</a> | <a href="{dictcc_url}" class="resource-link">dict.cc</a> | <a href="{forvo_url}" class="resource-link">Forvo 🔊</a>'
+    
     # Matching with audio file name
     # template_audio = f"[sound:{tense_name}.mp3]" if tense_name else ""
     form_audio_filename = os.path.basename(form_audio_filename)
@@ -144,6 +158,7 @@ def make_note(model, sentence, note, tags, form_audio_filename):
         str(uuid.uuid4()),
         note,
         form_audio,
+        links,
         # template_audio
     ], tags=tags)
 
