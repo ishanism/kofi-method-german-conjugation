@@ -49,10 +49,10 @@ Each tense has **unique visual cues** to help you quickly identify what you're b
 - **Note**: This tense is rarely used in everyday German except for modal verbs. You can filter it out if desired (see below).
 
 ### 4. Imperative (Imperativs)
-- **Visual**: ¡ ! symbols
+- **Visual**: ! ! symbols
 - **Border**: Red
-- **Verbal cue**: "Los jetzt, !" (Come on now!)
-- **Example**: ¡ Los jetzt, ! [...sprich...]
+- **Verbal cue**: "Los, jetzt !" (Come on now!)
+- **Example**: ! Los, jetzt ! [...sprich...]
 
 ### 5. Participles (Partizip I & II)
 - **Visual**: ~ symbol (wave)
@@ -78,14 +78,13 @@ The key to success with this deck is **daily practice**. Even 10-15 minutes per 
 
 ### Recommended Schedule
 
-#### Week 1-4: Start with Modal Verbs (4-6 verbs)
+#### Week 1-4: Start with Modal Verbs (5 verbs)
 Modal verbs are essential in German and appear in every conversation:
 1. **können** (can) - 21 cards
 2. **müssen** (must) - 21 cards
 3. **sollen** (should) - 15 cards
 4. **dürfen** (may) - 21 cards
 5. **mögen** (like) - 21 cards
-6. **wollen** (want) - ~20 cards
 
 **How to add cards**:
 ```

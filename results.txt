@@ -18,9 +18,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::beföhlen::befehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::beföhlt::befehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::beföhlen::befehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::befiehl::befehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::befehlt::befehlen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::befehlend::befehlen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::befiehl::befehlen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::befehlt::befehlen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::befehlend::befehlen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::befohlen::befehlen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er befiehlt</span><br>ist zu <span class="de_verb">{{c1::befehlen}}</span></div>
 VERB: beginnen
@@ -43,9 +43,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::begönnen::beginnen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::begönnt::beginnen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::begönnen::beginnen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::beginn::beginnen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::beginnt::beginnen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::beginnend::beginnen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::beginn::beginnen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::beginnt::beginnen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::beginnend::beginnen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::begonnen::beginnen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er beginnt</span><br>ist zu <span class="de_verb">{{c1::beginnen}}</span></div>
 VERB: bekommen
@@ -68,9 +68,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bekämen::bekommen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bekämt::bekommen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bekämen::bekommen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bekomm::bekommen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bekommt::bekommen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bekommend::bekommen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bekomm::bekommen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bekommt::bekommen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bekommend::bekommen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::bekommen::bekommen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bekommt</span><br>ist zu <span class="de_verb">{{c1::bekommen}}</span></div>
 VERB: beweisen
@@ -93,9 +93,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bewiesen::beweisen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bewieset::beweisen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bewiesen::beweisen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::beweis::beweisen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::beweist::beweisen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::beweisend::beweisen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::beweis::beweisen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::beweist::beweisen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::beweisend::beweisen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::bewiesen::beweisen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er beweist</span><br>ist zu <span class="de_verb">{{c1::beweisen}}</span></div>
 VERB: betrügen
@@ -118,9 +118,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::betrögen::betrügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::betrögt::betrügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::betrögen::betrügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::betrüg::betrügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::betrügt::betrügen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::betrügend::betrügen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::betrüg::betrügen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::betrügt::betrügen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::betrügend::betrügen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::betrogen::betrügen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er betrügt</span><br>ist zu <span class="de_verb">{{c1::betrügen}}</span></div>
 VERB: biegen
@@ -143,9 +143,9 @@ NOTE: In the sense of bending, the auxiliary verb is “haben” (e.g. “ich ha
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bögen::biegen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::böget::biegen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bögen::biegen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bieg::biegen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::biegt::biegen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::biegend::biegen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bieg::biegen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::biegt::biegen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::biegend::biegen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebogen::biegen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er biegt</span><br>ist zu <span class="de_verb">{{c1::biegen}}</span></div>
 VERB: bieten
@@ -168,9 +168,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::böten::bieten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bötet::bieten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::böten::bieten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::biet::bieten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bietet::bieten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bietend::bieten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::biet::bieten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bietet::bieten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bietend::bieten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geboten::bieten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bietet</span><br>ist zu <span class="de_verb">{{c1::bieten}}</span></div>
 VERB: binden
@@ -193,9 +193,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bänden::binden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bändet::binden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bänden::binden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bind::binden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bindet::binden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bindend::binden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bind::binden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bindet::binden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bindend::binden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebunden::binden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bindet</span><br>ist zu <span class="de_verb">{{c1::binden}}</span></div>
 VERB: bitten
@@ -218,9 +218,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bäten::bitten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bätet::bitten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bäten::bitten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bitt::bitten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bittet::bitten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bittend::bitten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bitt::bitten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bittet::bitten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bittend::bitten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebeten::bitten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bittet</span><br>ist zu <span class="de_verb">{{c1::bitten}}</span></div>
 VERB: blasen
@@ -243,9 +243,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::bliesen::blasen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::blieset::blasen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::bliesen::blasen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::blas::blasen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::blast::blasen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::blasend::blasen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::blas::blasen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::blast::blasen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::blasend::blasen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geblasen::blasen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bläst</span><br>ist zu <span class="de_verb">{{c1::blasen}}</span></div>
 VERB: bleiben
@@ -268,9 +268,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::blieben::bleiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::bliebet::bleiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::blieben::bleiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bleib::bleiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bleibt::bleiben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bleibend::bleiben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bleib::bleiben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bleibt::bleiben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bleibend::bleiben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geblieben::bleiben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bleibt</span><br>ist zu <span class="de_verb">{{c1::bleiben}}</span></div>
 VERB: braten
@@ -293,9 +293,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::brieten::braten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::brietet::braten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::brieten::braten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::brat::braten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bratet::braten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bratend::braten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::brat::braten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bratet::braten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bratend::braten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebraten::braten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er brät</span><br>ist zu <span class="de_verb">{{c1::braten}}</span></div>
 VERB: brechen
@@ -318,9 +318,9 @@ NOTE: If someone has broken something, “er hat es gebrochen”. If something h
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::brächen::brechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::brächt::brechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::brächen::brechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::brich::brechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::brecht::brechen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::brechend::brechen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::brich::brechen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::brecht::brechen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::brechend::brechen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebrochen::brechen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bricht</span><br>ist zu <span class="de_verb">{{c1::brechen}}</span></div>
 VERB: brennen
@@ -343,9 +343,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::brennten::brennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::brenntet::brennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::brennten::brennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::brenn::brennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::brennt::brennen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::brennend::brennen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::brenn::brennen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::brennt::brennen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::brennend::brennen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebrannt::brennen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er brennt</span><br>ist zu <span class="de_verb">{{c1::brennen}}</span></div>
 VERB: bringen
@@ -368,9 +368,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::brächten::bringen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::brächtet::bringen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::brächten::bringen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bring::bringen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::bringt::bringen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::bringend::bringen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bring::bringen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::bringt::bringen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::bringend::bringen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gebracht::bringen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er bringt</span><br>ist zu <span class="de_verb">{{c1::bringen}}</span></div>
 VERB: denken
@@ -393,9 +393,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::dächten::denken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::dächtet::denken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::dächten::denken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::denk::denken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::denkt::denken}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::denkend::denken}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::denk::denken}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::denkt::denken}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::denkend::denken}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gedacht::denken}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er denkt</span><br>ist zu <span class="de_verb">{{c1::denken}}</span></div>
 VERB: dürfen
@@ -418,7 +418,7 @@ NOTE: The first person singular is “ichdarf”. For subjunctive, only “dürf
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::dürften::dürfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::dürftet::dürfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::dürften::dürfen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::dürfend::dürfen}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::dürfend::dürfen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::dürfen::dürfen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er darf</span><br>ist zu <span class="de_verb">{{c1::dürfen}}</span></div>
 VERB: empfehlen
@@ -441,9 +441,9 @@ NOTE: This verb doesn’t follow the conjugation of “fehlen”, which is compl
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::empföhlen::empfehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::empföhlt::empfehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::empföhlen::empfehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::empfiehl::empfehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::empfehlt::empfehlen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::empfehlend::empfehlen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::empfiehl::empfehlen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::empfehlt::empfehlen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::empfehlend::empfehlen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::empfohlen::empfehlen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er empfiehlt</span><br>ist zu <span class="de_verb">{{c1::empfehlen}}</span></div>
 VERB: essen
@@ -466,9 +466,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::äßen::essen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::äßet::essen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::äßen::essen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::iss::essen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::esst::essen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::essend::essen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::iss::essen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::esst::essen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::essend::essen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegessen::essen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er isst</span><br>ist zu <span class="de_verb">{{c1::essen}}</span></div>
 VERB: fahren
@@ -491,9 +491,9 @@ NOTE: In the sense of movement, the auxiliary verb is “sein”. Fahren can als
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::führen::fahren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::führt::fahren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::führen::fahren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fahr::fahren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fahrt::fahren}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fahrend::fahren}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fahr::fahren}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fahrt::fahren}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fahrend::fahren}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefahren::fahren}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er fährt</span><br>ist zu <span class="de_verb">{{c1::fahren}}</span></div>
 VERB: fallen
@@ -516,9 +516,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::fielen::fallen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::fielet::fallen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::fielen::fallen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fall::fallen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fallt::fallen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fallend::fallen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fall::fallen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fallt::fallen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fallend::fallen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefallen::fallen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er fällt</span><br>ist zu <span class="de_verb">{{c1::fallen}}</span></div>
 VERB: fangen
@@ -541,9 +541,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::fingen::fangen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::finget::fangen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::fingen::fangen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fang::fangen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fangt::fangen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fangend::fangen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fang::fangen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fangt::fangen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fangend::fangen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefangen::fangen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er fängt</span><br>ist zu <span class="de_verb">{{c1::fangen}}</span></div>
 VERB: finden
@@ -566,9 +566,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::fänden::finden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::fändet::finden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::fänden::finden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::find::finden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::findet::finden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::findend::finden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::find::finden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::findet::finden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::findend::finden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefunden::finden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er findet</span><br>ist zu <span class="de_verb">{{c1::finden}}</span></div>
 VERB: fliegen
@@ -591,9 +591,9 @@ NOTE: In the sense of movement, the auxiliary verb is “sein”. Fliegen can al
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::flögen::fliegen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::flöget::fliegen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::flögen::fliegen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::flieg::fliegen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fliegt::fliegen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fliegend::fliegen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::flieg::fliegen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fliegt::fliegen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fliegend::fliegen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geflogen::fliegen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er fliegt</span><br>ist zu <span class="de_verb">{{c1::fliegen}}</span></div>
 VERB: fliehen
@@ -616,9 +616,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::flöhen::fliehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::flöht::fliehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::flöhen::fliehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::flieh::fliehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::flieht::fliehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fliehend::fliehen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::flieh::fliehen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::flieht::fliehen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fliehend::fliehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geflohen::fliehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er flieht</span><br>ist zu <span class="de_verb">{{c1::fliehen}}</span></div>
 VERB: fressen
@@ -641,9 +641,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::fräßen::fressen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::fräßet::fressen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::fräßen::fressen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::friss::fressen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::fresst::fressen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::fressend::fressen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::friss::fressen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::fresst::fressen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::fressend::fressen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefressen::fressen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er frisst</span><br>ist zu <span class="de_verb">{{c1::fressen}}</span></div>
 VERB: frieren
@@ -666,9 +666,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::frören::frieren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::frört::frieren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::frören::frieren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::frier::frieren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::friert::frieren}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::frierend::frieren}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::frier::frieren}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::friert::frieren}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::frierend::frieren}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gefroren::frieren}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er friert</span><br>ist zu <span class="de_verb">{{c1::frieren}}</span></div>
 VERB: geben
@@ -691,9 +691,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::gäben::geben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::gäbt::geben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::gäben::geben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gib::geben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gebt::geben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gebend::geben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gib::geben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gebt::geben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gebend::geben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegeben::geben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gibt</span><br>ist zu <span class="de_verb">{{c1::geben}}</span></div>
 VERB: gedeihen
@@ -716,9 +716,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::gediehen::gedeihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::gediehet::gedeihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::gediehen::gedeihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gedeih::gedeihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gedeiht::gedeihen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gedeihend::gedeihen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gedeih::gedeihen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gedeiht::gedeihen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gedeihend::gedeihen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gediehen::gedeihen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gedeiht</span><br>ist zu <span class="de_verb">{{c1::gedeihen}}</span></div>
 VERB: gehen
@@ -741,9 +741,9 @@ NOTE: For subjunctive, both “ginge” and “würde gehen” are common.
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::gingen::gehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::ginget::gehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::gingen::gehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::geh::gehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::geht::gehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gehend::gehen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::geh::gehen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::geht::gehen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gehend::gehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegangen::gehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er geht</span><br>ist zu <span class="de_verb">{{c1::gehen}}</span></div>
 VERB: gelten
@@ -766,9 +766,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::gölten::gelten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::göltet::gelten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::gölten::gelten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gilt::gelten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::geltet::gelten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::geltend::gelten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gilt::gelten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::geltet::gelten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::geltend::gelten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegolten::gelten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gilt</span><br>ist zu <span class="de_verb">{{c1::gelten}}</span></div>
 VERB: geschehen
@@ -791,7 +791,7 @@ NOTE: Only the third person exists.
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::–::geschehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::–::geschehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::geschähen::geschehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::geschehend::geschehen}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::geschehend::geschehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschehen::geschehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er geschieht</span><br>ist zu <span class="de_verb">{{c1::geschehen}}</span></div>
 VERB: gewinnen
@@ -814,9 +814,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::gewönnen::gewinnen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::gewönnt::gewinnen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::gewönnen::gewinnen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gewinn::gewinnen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gewinnt::gewinnen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gewinnend::gewinnen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gewinn::gewinnen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gewinnt::gewinnen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gewinnend::gewinnen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gewonnen::gewinnen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gewinnt</span><br>ist zu <span class="de_verb">{{c1::gewinnen}}</span></div>
 VERB: gleichen
@@ -839,9 +839,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::glichen::gleichen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::glichet::gleichen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::glichen::gleichen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gleich::gleichen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gleicht::gleichen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gleichend::gleichen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gleich::gleichen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gleicht::gleichen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gleichend::gleichen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geglichen::gleichen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gleicht</span><br>ist zu <span class="de_verb">{{c1::gleichen}}</span></div>
 VERB: gleiten
@@ -864,9 +864,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::glitten::gleiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::glittet::gleiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::glitten::gleiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gleit::gleiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::gleitet::gleiten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::gleitend::gleiten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gleit::gleiten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::gleitet::gleiten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::gleitend::gleiten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geglitten::gleiten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gleitet</span><br>ist zu <span class="de_verb">{{c1::gleiten}}</span></div>
 VERB: graben
@@ -889,9 +889,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::grüben::graben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::grübt::graben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::grüben::graben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::grab::graben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::grabt::graben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::grabend::graben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::grab::graben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::grabt::graben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::grabend::graben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegraben::graben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er gräbt</span><br>ist zu <span class="de_verb">{{c1::graben}}</span></div>
 VERB: greifen
@@ -914,9 +914,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::griffen::greifen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::griffet::greifen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::griffen::greifen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::greif::greifen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::greift::greifen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::greifend::greifen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::greif::greifen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::greift::greifen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::greifend::greifen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gegriffen::greifen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er greift</span><br>ist zu <span class="de_verb">{{c1::greifen}}</span></div>
 VERB: halten
@@ -939,9 +939,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::hielten::halten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::hieltet::halten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::hielten::halten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::halt::halten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::haltet::halten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::haltend::halten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::halt::halten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::haltet::halten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::haltend::halten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gehalten::halten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er hält</span><br>ist zu <span class="de_verb">{{c1::halten}}</span></div>
 VERB: heben
@@ -964,9 +964,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::hüben::heben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::hübt::heben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::hüben::heben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::heb::heben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::hebt::heben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::hebend::heben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::heb::heben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::hebt::heben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::hebend::heben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gehoben::heben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er hebt</span><br>ist zu <span class="de_verb">{{c1::heben}}</span></div>
 VERB: helfen
@@ -989,9 +989,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::hülfen::helfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::hülft::helfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::hülfen::helfen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::hilf::helfen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::helft::helfen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::helfend::helfen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::hilf::helfen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::helft::helfen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::helfend::helfen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geholfen::helfen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er hilft</span><br>ist zu <span class="de_verb">{{c1::helfen}}</span></div>
 VERB: kennen
@@ -1014,9 +1014,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::kennten::kennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::kenntet::kennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::kennten::kennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kenn::kennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kennt::kennen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::kennend::kennen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kenn::kennen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kennt::kennen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::kennend::kennen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gekannt::kennen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er kennt</span><br>ist zu <span class="de_verb">{{c1::kennen}}</span></div>
 VERB: klingen
@@ -1039,9 +1039,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::klängen::klingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::klänget::klingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::klängen::klingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kling::klingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::klingt::klingen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::klingend::klingen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kling::klingen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::klingt::klingen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::klingend::klingen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geklungen::klingen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er klingt</span><br>ist zu <span class="de_verb">{{c1::klingen}}</span></div>
 VERB: kommen
@@ -1064,9 +1064,9 @@ NOTE: For subjunctive, both “käme” and “würde kommen” are common. Noti
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::kämen::kommen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::kämt::kommen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::kämen::kommen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::komm::kommen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kommt::kommen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::kommend::kommen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::komm::kommen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kommt::kommen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::kommend::kommen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gekommen::kommen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er kommt</span><br>ist zu <span class="de_verb">{{c1::kommen}}</span></div>
 VERB: können
@@ -1089,7 +1089,7 @@ NOTE: The first person singular is “ich kann”. For subjunctive, only “kön
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::könnten::können}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::könntet::können}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::könnten::können}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::könnend::können}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::könnend::können}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::können::können}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er kann</span><br>ist zu <span class="de_verb">{{c1::können}}</span></div>
 VERB: kriechen
@@ -1112,9 +1112,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::kröchen::kriechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::kröcht::kriechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::kröchen::kriechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kriech::kriechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::kriecht::kriechen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::kriechend::kriechen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kriech::kriechen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::kriecht::kriechen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::kriechend::kriechen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gekrochen::kriechen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er kriecht</span><br>ist zu <span class="de_verb">{{c1::kriechen}}</span></div>
 VERB: lassen
@@ -1137,9 +1137,9 @@ NOTE: For subjunctive, both “ließe” and “würde lassen” are common.
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::ließen::lassen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::ließet::lassen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::ließen::lassen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lass::lassen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lasst::lassen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::lassend::lassen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lass::lassen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lasst::lassen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::lassend::lassen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gelassen::lassen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er lässt</span><br>ist zu <span class="de_verb">{{c1::lassen}}</span></div>
 VERB: laufen
@@ -1162,9 +1162,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::liefen::laufen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::liefet::laufen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::liefen::laufen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lauf::laufen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lauft::laufen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::laufend::laufen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lauf::laufen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lauft::laufen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::laufend::laufen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gelaufen::laufen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er läuft</span><br>ist zu <span class="de_verb">{{c1::laufen}}</span></div>
 VERB: leiden
@@ -1187,9 +1187,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::litten::leiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::littet::leiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::litten::leiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::leide::leiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::leidet::leiden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::leidend::leiden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::leide::leiden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::leidet::leiden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::leidend::leiden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gelitten::leiden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er leidet</span><br>ist zu <span class="de_verb">{{c1::leiden}}</span></div>
 VERB: leihen
@@ -1212,9 +1212,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::liehen::leihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::liehet::leihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::liehen::leihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::leih::leihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::leiht::leihen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::leihend::leihen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::leih::leihen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::leiht::leihen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::leihend::leihen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geliehen::leihen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er leiht</span><br>ist zu <span class="de_verb">{{c1::leihen}}</span></div>
 VERB: lügen
@@ -1237,9 +1237,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::lögen::lügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::lögt::lügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::lögen::lügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lüg::lügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::lügt::lügen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::lügend::lügen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lüg::lügen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::lügt::lügen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::lügend::lügen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gelogen::lügen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er lügt</span><br>ist zu <span class="de_verb">{{c1::lügen}}</span></div>
 VERB: messen
@@ -1262,9 +1262,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::mäßen::messen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::mäßet::messen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::mäßen::messen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::miss::messen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::messt::messen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::messend::messen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::miss::messen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::messt::messen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::messend::messen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gemessen::messen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er misst</span><br>ist zu <span class="de_verb">{{c1::messen}}</span></div>
 VERB: mögen
@@ -1287,7 +1287,7 @@ NOTE: The first person singular is “ich mag”. The subjunctive acts as a full
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::möchten::mögen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::möchtet::mögen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::möchten::mögen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::mögend::mögen}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::mögend::mögen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::mögen::mögen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er mag</span><br>ist zu <span class="de_verb">{{c1::mögen}}</span></div>
 VERB: müssen
@@ -1310,7 +1310,7 @@ NOTE: The first person singular is “ich muss”. For subjunctive, only “müs
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::müssten::müssen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::müsstet::müssen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::müssten::müssen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::müssend::müssen}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::müssend::müssen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::müssen::müssen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er muss</span><br>ist zu <span class="de_verb">{{c1::müssen}}</span></div>
 VERB: nehmen
@@ -1333,9 +1333,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::nähmen::nehmen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::nähmt::nehmen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::nähmen::nehmen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::nimm::nehmen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::nehmt::nehmen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::nehmend::nehmen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::nimm::nehmen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::nehmt::nehmen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::nehmend::nehmen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::genommen::nehmen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er nimmt</span><br>ist zu <span class="de_verb">{{c1::nehmen}}</span></div>
 VERB: nennen
@@ -1358,9 +1358,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::nennten::nennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::nenntet::nennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::nennten::nennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::nenn::nennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::nennt::nennen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::nennend::nennen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::nenn::nennen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::nennt::nennen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::nennend::nennen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::genannt::nennen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er nennt</span><br>ist zu <span class="de_verb">{{c1::nennen}}</span></div>
 VERB: pfeifen
@@ -1383,9 +1383,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::pfiffen::pfeifen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::pfiffet::pfeifen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::pfiffen::pfeifen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::pfeif::pfeifen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::pfeift::pfeifen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::pfeifend::pfeifen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::pfeif::pfeifen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::pfeift::pfeifen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::pfeifend::pfeifen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gepfiffen::pfeifen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er pfeift</span><br>ist zu <span class="de_verb">{{c1::pfeifen}}</span></div>
 VERB: reiben
@@ -1408,9 +1408,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::rieben::reiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::riebet::reiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::rieben::reiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::reib::reiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::reibt::reiben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::reibend::reiben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::reib::reiben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::reibt::reiben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::reibend::reiben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gerieben::reiben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er reibt</span><br>ist zu <span class="de_verb">{{c1::reiben}}</span></div>
 VERB: reiten
@@ -1433,9 +1433,9 @@ NOTE: For most meanings both “haben” and “sein” as auxiliary verbs are p
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::ritten::reiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::rittet::reiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::ritten::reiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::reit::reiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::reitet::reiten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::reitend::reiten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::reit::reiten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::reitet::reiten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::reitend::reiten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geritten::reiten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er reitet</span><br>ist zu <span class="de_verb">{{c1::reiten}}</span></div>
 VERB: rennen
@@ -1458,9 +1458,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::rennten::rennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::renntet::rennen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::rennten::rennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::renn::rennen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::rennt::rennen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::rennend::rennen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::renn::rennen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::rennt::rennen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::rennend::rennen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gerannt::rennen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er rennt</span><br>ist zu <span class="de_verb">{{c1::rennen}}</span></div>
 VERB: riechen
@@ -1483,9 +1483,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::röchen::riechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::röcht::riechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::röchen::riechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::riech::riechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::riecht::riechen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::riechend::riechen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::riech::riechen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::riecht::riechen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::riechend::riechen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gerochen::riechen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er riecht</span><br>ist zu <span class="de_verb">{{c1::riechen}}</span></div>
 VERB: rufen
@@ -1508,9 +1508,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::riefen::rufen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::riefet::rufen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::riefen::rufen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::ruf::rufen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::ruft::rufen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::rufend::rufen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::ruf::rufen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::ruft::rufen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::rufend::rufen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gerufen::rufen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er ruft</span><br>ist zu <span class="de_verb">{{c1::rufen}}</span></div>
 VERB: scheiden
@@ -1533,9 +1533,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schieden::scheiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schiedet::scheiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schieden::scheiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::scheid::scheiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::scheidet::scheiden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::scheidend::scheiden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::scheid::scheiden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::scheidet::scheiden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::scheidend::scheiden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschieden::scheiden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er scheidet</span><br>ist zu <span class="de_verb">{{c1::scheiden}}</span></div>
 VERB: scheinen
@@ -1558,9 +1558,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schienen::scheinen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schienet::scheinen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schienen::scheinen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schein::scheinen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::scheint::scheinen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::scheinend::scheinen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schein::scheinen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::scheint::scheinen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::scheinend::scheinen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschienen::scheinen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er scheint</span><br>ist zu <span class="de_verb">{{c1::scheinen}}</span></div>
 VERB: schieben
@@ -1583,9 +1583,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schöben::schieben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schöbt::schieben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schöben::schieben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schieb::schieben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schiebt::schieben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schiebend::schieben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schieb::schieben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schiebt::schieben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schiebend::schieben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschoben::schieben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schiebt</span><br>ist zu <span class="de_verb">{{c1::schieben}}</span></div>
 VERB: schlafen
@@ -1608,9 +1608,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schliefen::schlafen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schliefet::schlafen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schliefen::schlafen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schlaf::schlafen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schlaft::schlafen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schlafend::schlafen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schlaf::schlafen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schlaft::schlafen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schlafend::schlafen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschlafen::schlafen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schläft</span><br>ist zu <span class="de_verb">{{c1::schlafen}}</span></div>
 VERB: schlagen
@@ -1633,9 +1633,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schlügen::schlagen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schlüget::schlagen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schlügen::schlagen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schlag::schlagen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schlagt::schlagen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schlagend::schlagen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schlag::schlagen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schlagt::schlagen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schlagend::schlagen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschlagen::schlagen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schlägt</span><br>ist zu <span class="de_verb">{{c1::schlagen}}</span></div>
 VERB: schneiden
@@ -1658,9 +1658,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schnitten::schneiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schnittet::schneiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schnitten::schneiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schneid::schneiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schneidet::schneiden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schneidend::schneiden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schneid::schneiden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schneidet::schneiden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schneidend::schneiden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschnitten::schneiden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schneidet</span><br>ist zu <span class="de_verb">{{c1::schneiden}}</span></div>
 VERB: schreiben
@@ -1683,9 +1683,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schrieben::schreiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schriebet::schreiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schrieben::schreiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schreib::schreiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schreibt::schreiben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schreibend::schreiben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schreib::schreiben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schreibt::schreiben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schreibend::schreiben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschrieben::schreiben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schreibt</span><br>ist zu <span class="de_verb">{{c1::schreiben}}</span></div>
 VERB: schreien
@@ -1702,9 +1702,9 @@ NOTE: Note:
 <div class="preterit-border">← Gestern, ←<br>wir  <span class="de_verb">{{c1::schrien::schreien}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>ihr  <span class="de_verb">{{c1::schriet::schreien}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>Sie  <span class="de_verb">{{c1::schrien::schreien}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schrei::schreien}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schreit::schreien}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schreiend::schreien}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schrei::schreien}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schreit::schreien}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schreiend::schreien}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschrien::schreien}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schreit</span><br>ist zu <span class="de_verb">{{c1::schreien}}</span></div>
 VERB: schweigen
@@ -1727,9 +1727,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schwiegen::schweigen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schwieget::schweigen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schwiegen::schweigen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schweig::schweigen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schweigt::schweigen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schweigend::schweigen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schweig::schweigen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schweigt::schweigen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schweigend::schweigen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschwiegen::schweigen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schweigt</span><br>ist zu <span class="de_verb">{{c1::schweigen}}</span></div>
 VERB: schwimmen
@@ -1752,9 +1752,9 @@ NOTE: When the verb signifies movement, the auxiliary verb is “sein”, e.g. �
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schwömmen::schwimmen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schwömmt::schwimmen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schwömmen::schwimmen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwimm::schwimmen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwimmt::schwimmen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwimmend::schwimmen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwimm::schwimmen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwimmt::schwimmen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwimmend::schwimmen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschwommen::schwimmen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schwimmt</span><br>ist zu <span class="de_verb">{{c1::schwimmen}}</span></div>
 VERB: schwingen
@@ -1777,9 +1777,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schwängen::schwingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schwänget::schwingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schwängen::schwingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwing::schwingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwingt::schwingen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwingend::schwingen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwing::schwingen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwingt::schwingen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwingend::schwingen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschwungen::schwingen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schwingt</span><br>ist zu <span class="de_verb">{{c1::schwingen}}</span></div>
 VERB: schwören
@@ -1802,9 +1802,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::schwüren::schwören}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::schwürt::schwören}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::schwüren::schwören}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwör::schwören}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::schwört::schwören}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwörend::schwören}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwör::schwören}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::schwört::schwören}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::schwörend::schwören}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geschworen::schwören}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er schwört</span><br>ist zu <span class="de_verb">{{c1::schwören}}</span></div>
 VERB: sehen
@@ -1827,9 +1827,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sähen::sehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::säht::sehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sähen::sehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sieh::sehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::seht::sehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sehend::sehen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sieh::sehen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::seht::sehen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sehend::sehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesehen::sehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er sieht</span><br>ist zu <span class="de_verb">{{c1::sehen}}</span></div>
 VERB: senden
@@ -1852,9 +1852,9 @@ NOTE: This conjugation is used when “senden” means “to send something phys
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sendeten::senden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::sendetet::senden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sendeten::senden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::send::senden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sendet::senden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sendend::senden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::send::senden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sendet::senden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sendend::senden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesandt::senden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er sendet</span><br>ist zu <span class="de_verb">{{c1::senden}}</span></div>
 VERB: singen
@@ -1877,9 +1877,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sängen::singen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::sänget::singen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sängen::singen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sing::singen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::singt::singen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::singend::singen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sing::singen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::singt::singen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::singend::singen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesungen::singen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er singt</span><br>ist zu <span class="de_verb">{{c1::singen}}</span></div>
 VERB: sinken
@@ -1902,9 +1902,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sänken::sinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::sänkt::sinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sänken::sinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sink::sinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sinkt::sinken}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sinkend::sinken}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sink::sinken}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sinkt::sinken}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sinkend::sinken}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesunken::sinken}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er sinkt</span><br>ist zu <span class="de_verb">{{c1::sinken}}</span></div>
 VERB: sitzen
@@ -1927,9 +1927,9 @@ NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben”
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::säßen::sitzen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::säßt::sitzen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::säßen::sitzen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sitz::sitzen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sitzt::sitzen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sitzend::sitzen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sitz::sitzen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sitzt::sitzen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sitzend::sitzen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesessen::sitzen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er sitzt</span><br>ist zu <span class="de_verb">{{c1::sitzen}}</span></div>
 VERB: sollen
@@ -1946,7 +1946,7 @@ NOTE: The first person singular is “ich soll”. For subjunctive, only “soll
 <div class="preterit-border">← Gestern, ←<br>wir  <span class="de_verb">{{c1::sollten::sollen}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>ihr  <span class="de_verb">{{c1::solltet::sollen}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>Sie  <span class="de_verb">{{c1::sollten::sollen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sollend::sollen}}</span> denkt er nach ~</div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sollend::sollen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::sollen::sollen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er soll</span><br>ist zu <span class="de_verb">{{c1::sollen}}</span></div>
 VERB: sprechen
@@ -1969,9 +1969,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sprächen::sprechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::sprächt::sprechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sprächen::sprechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sprich::sprechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sprecht::sprechen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sprechend::sprechen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sprich::sprechen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sprecht::sprechen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sprechend::sprechen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesprochen::sprechen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er spricht</span><br>ist zu <span class="de_verb">{{c1::sprechen}}</span></div>
 VERB: springen
@@ -1994,9 +1994,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::sprängen::springen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::spränget::springen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::sprängen::springen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::spring::springen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::springt::springen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::springend::springen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::spring::springen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::springt::springen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::springend::springen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gesprungen::springen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er springt</span><br>ist zu <span class="de_verb">{{c1::springen}}</span></div>
 VERB: stechen
@@ -2019,9 +2019,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stächen::stechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stächt::stechen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stächen::stechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stich::stechen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stecht::stechen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::stechend::stechen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stich::stechen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stecht::stechen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::stechend::stechen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestochen::stechen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er sticht</span><br>ist zu <span class="de_verb">{{c1::stechen}}</span></div>
 VERB: stehen
@@ -2044,9 +2044,9 @@ NOTE: The auxiliary verb “sein” is used in the South of Germany, “haben”
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stünden::stehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stündet::stehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stünden::stehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::steh::stehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::steht::stehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::stehend::stehen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::steh::stehen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::steht::stehen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::stehend::stehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestanden::stehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er steht</span><br>ist zu <span class="de_verb">{{c1::stehen}}</span></div>
 VERB: stehlen
@@ -2069,9 +2069,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stöhlen::stehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stöhlt::stehlen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stöhlen::stehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stiehl::stehlen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stehlt::stehlen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::stehlend::stehlen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stiehl::stehlen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stehlt::stehlen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::stehlend::stehlen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestohlen::stehlen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er stiehlt</span><br>ist zu <span class="de_verb">{{c1::stehlen}}</span></div>
 VERB: steigen
@@ -2094,9 +2094,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stiegen::steigen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stieget::steigen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stiegen::steigen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::steig::steigen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::steigt::steigen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::steigend::steigen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::steig::steigen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::steigt::steigen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::steigend::steigen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestiegen::steigen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er steigt</span><br>ist zu <span class="de_verb">{{c1::steigen}}</span></div>
 VERB: sterben
@@ -2119,9 +2119,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stürben::sterben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stürbt::sterben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stürben::sterben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stirb::sterben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::sterbt::sterben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::sterbend::sterben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stirb::sterben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::sterbt::sterben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::sterbend::sterben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestorben::sterben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er stirbt</span><br>ist zu <span class="de_verb">{{c1::sterben}}</span></div>
 VERB: stinken
@@ -2144,9 +2144,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stänken::stinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::stänkt::stinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stänken::stinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stink::stinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::stinkt::stinken}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::stinkend::stinken}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stink::stinken}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::stinkt::stinken}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::stinkend::stinken}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestunken::stinken}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er stinkt</span><br>ist zu <span class="de_verb">{{c1::stinken}}</span></div>
 VERB: streichen
@@ -2169,9 +2169,9 @@ NOTE: In the sense of “stroking” (without a direct object) the auxiliary ver
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::strichen::streichen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::strichet::streichen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::strichen::streichen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::streich::streichen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::streicht::streichen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::streichend::streichen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::streich::streichen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::streicht::streichen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::streichend::streichen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestrichen::streichen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er streicht</span><br>ist zu <span class="de_verb">{{c1::streichen}}</span></div>
 VERB: streiten
@@ -2194,9 +2194,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::stritten::streiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::strittet::streiten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::stritten::streiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::streit::streiten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::streitet::streiten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::streitend::streiten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::streit::streiten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::streitet::streiten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::streitend::streiten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gestritten::streiten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er streitet</span><br>ist zu <span class="de_verb">{{c1::streiten}}</span></div>
 VERB: tragen
@@ -2219,9 +2219,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::trügen::tragen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::trüget::tragen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::trügen::tragen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trag::tragen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::tragt::tragen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::tragend::tragen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trag::tragen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::tragt::tragen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::tragend::tragen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getragen::tragen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er trägt</span><br>ist zu <span class="de_verb">{{c1::tragen}}</span></div>
 VERB: treffen
@@ -2244,9 +2244,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::träfen::treffen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::träft::treffen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::träfen::treffen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::triff::treffen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trefft::treffen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::treffend::treffen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::triff::treffen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trefft::treffen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::treffend::treffen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getroffen::treffen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er trifft</span><br>ist zu <span class="de_verb">{{c1::treffen}}</span></div>
 VERB: treiben
@@ -2269,9 +2269,9 @@ NOTE: The auxiliary verb is “haben” in all meanings apart from “being move
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::trieben::treiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::triebet::treiben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::trieben::treiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::treib::treiben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::treibt::treiben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::treibend::treiben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::treib::treiben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::treibt::treiben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::treibend::treiben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getrieben::treiben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er treibt</span><br>ist zu <span class="de_verb">{{c1::treiben}}</span></div>
 VERB: treten
@@ -2294,9 +2294,9 @@ NOTE: In the meaning “to step somewhere”, the auxiliary verb is “haben”,
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::träten::treten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::trätet::treten}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::träten::treten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::tritt::treten}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::tretet::treten}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::tretend::treten}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::tritt::treten}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::tretet::treten}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::tretend::treten}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getreten::treten}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er tritt</span><br>ist zu <span class="de_verb">{{c1::treten}}</span></div>
 VERB: trinken
@@ -2319,9 +2319,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::tränken::trinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::tränket::trinken}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::tränken::trinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trink::trinken}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trinkt::trinken}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::trinkend::trinken}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trink::trinken}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trinkt::trinken}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::trinkend::trinken}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getrunken::trinken}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er trinkt</span><br>ist zu <span class="de_verb">{{c1::trinken}}</span></div>
 VERB: trügen
@@ -2344,9 +2344,9 @@ NOTE: The subjunctive for “betrügen” (a more usual word for “to deceive�
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::trögen::trügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::trögt::trügen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::trögen::trügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trüg::trügen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::trügt::trügen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::trügend::trügen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trüg::trügen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::trügt::trügen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::trügend::trügen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::getrogen::trügen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er trügt</span><br>ist zu <span class="de_verb">{{c1::trügen}}</span></div>
 VERB: verbergen
@@ -2369,9 +2369,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::verbärgen::verbergen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::verbärgt::verbergen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::verbärgen::verbergen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verbirg::verbergen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verbergt::verbergen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::verbergend::verbergen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verbirg::verbergen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verbergt::verbergen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::verbergend::verbergen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::verborgen::verbergen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er verbirgt</span><br>ist zu <span class="de_verb">{{c1::verbergen}}</span></div>
 VERB: verderben
@@ -2394,9 +2394,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::verdürben::verderben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::verdürbt::verderben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::verdürben::verderben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verdirb::verderben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verderbt::verderben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::verderbend::verderben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verdirb::verderben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verderbt::verderben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::verderbend::verderben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::verdorben::verderben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er verdirbt</span><br>ist zu <span class="de_verb">{{c1::verderben}}</span></div>
 VERB: verlieren
@@ -2419,9 +2419,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::verlören::verlieren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::verlört::verlieren}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::verlören::verlieren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verlier::verlieren}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verliert::verlieren}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::verlierend::verlieren}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verlier::verlieren}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verliert::verlieren}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::verlierend::verlieren}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::verloren::verlieren}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er verliert</span><br>ist zu <span class="de_verb">{{c1::verlieren}}</span></div>
 VERB: vermeiden
@@ -2444,9 +2444,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::vermieden::vermeiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::vermiedet::vermeiden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::vermieden::vermeiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::vermeid::vermeiden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::vermeidet::vermeiden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::vermeidend::vermeiden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::vermeid::vermeiden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::vermeidet::vermeiden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::vermeidend::vermeiden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::vermieden::vermeiden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er vermeidet</span><br>ist zu <span class="de_verb">{{c1::vermeiden}}</span></div>
 VERB: verschwinden
@@ -2469,9 +2469,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::verschwänden::verschwinden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::verschwändet::verschwinden}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::verschwänden::verschwinden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verschwind::verschwinden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verschwindet::verschwinden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::verschwindend::verschwinden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verschwind::verschwinden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verschwindet::verschwinden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::verschwindend::verschwinden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::verschwunden::verschwinden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er verschwindet</span><br>ist zu <span class="de_verb">{{c1::verschwinden}}</span></div>
 VERB: verzeihen
@@ -2494,9 +2494,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::verziehen::verzeihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::verziehet::verzeihen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::verziehen::verzeihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verzeih::verzeihen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::verzeiht::verzeihen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::verzeihend::verzeihen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verzeih::verzeihen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::verzeiht::verzeihen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::verzeihend::verzeihen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::verziehen::verzeihen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er verzeiht</span><br>ist zu <span class="de_verb">{{c1::verzeihen}}</span></div>
 VERB: waschen
@@ -2519,9 +2519,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::wüschen::waschen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::wüscht::waschen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::wüschen::waschen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wasch::waschen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wascht::waschen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::waschend::waschen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wasch::waschen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wascht::waschen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::waschend::waschen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gewaschen::waschen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er wäscht</span><br>ist zu <span class="de_verb">{{c1::waschen}}</span></div>
 VERB: wenden
@@ -2538,9 +2538,9 @@ NOTE: Note:
 <div class="preterit-border">← Gestern, ←<br>wir  <span class="de_verb">{{c1::wendeten::wenden}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>ihr  <span class="de_verb">{{c1::wendetet::wenden}}</span></div>
 <div class="preterit-border">← Gestern, ←<br>Sie  <span class="de_verb">{{c1::wendeten::wenden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wend::wenden}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wendet::wenden}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::wendend::wenden}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wend::wenden}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wendet::wenden}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::wendend::wenden}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gewendet::wenden}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er wendet</span><br>ist zu <span class="de_verb">{{c1::wenden}}</span></div>
 VERB: werben
@@ -2563,9 +2563,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::würben::werben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::würbt::werben}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::würben::werben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wirb::werben}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::werbt::werben}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::werbend::werben}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wirb::werben}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::werbt::werben}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::werbend::werben}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geworben::werben}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er wirbt</span><br>ist zu <span class="de_verb">{{c1::werben}}</span></div>
 VERB: werfen
@@ -2588,9 +2588,9 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::würfen::werfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::würft::werfen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::würfen::werfen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wirf::werfen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::werft::werfen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::werfend::werfen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wirf::werfen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::werft::werfen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::werfend::werfen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::geworfen::werfen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er wirft</span><br>ist zu <span class="de_verb">{{c1::werfen}}</span></div>
 VERB: wissen
@@ -2613,9 +2613,9 @@ NOTE: For subjunctive, both “wüsste” and “würde wissen” are common.
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::wüssten::wissen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::wüsstet::wissen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::wüssten::wissen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wisse::wissen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::wisst::wissen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::wissend::wissen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wisse::wissen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::wisst::wissen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::wissend::wissen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gewusst::wissen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er weiß</span><br>ist zu <span class="de_verb">{{c1::wissen}}</span></div>
 VERB: ziehen
@@ -2638,9 +2638,9 @@ NOTE: The auxiliary verb “sein” is used in the sense “to wander, to move�
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::zögen::ziehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::zöget::ziehen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::zögen::ziehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::zieh::ziehen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::zieht::ziehen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::ziehend::ziehen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::zieh::ziehen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::zieht::ziehen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::ziehend::ziehen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gezogen::ziehen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er zieht</span><br>ist zu <span class="de_verb">{{c1::ziehen}}</span></div>
 VERB: zwingen
@@ -2663,8 +2663,8 @@ NOTE: Note:
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>wir  <span class="de_verb">{{c1::zwängen::zwingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>ihr  <span class="de_verb">{{c1::zwänget::zwingen}}</span></div>
 <div class="subjunctive-border">↫ Wenn es möglich wäre, ↫<br>Sie  <span class="de_verb">{{c1::zwängen::zwingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::zwing::zwingen}}</span></div>
-<div class="imperative-border">¡ Los jetzt, !<br><span class="de_verb">{{c1::zwingt::zwingen}}</span></div>
-<div class="participle-border">~ Beim <span class="de_verb">{{c1::zwingend::zwingen}}</span> denkt er nach ~</div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::zwing::zwingen}}</span></div>
+<div class="imperative-border">! Los, jetzt !<br><span class="de_verb">{{c1::zwingt::zwingen}}</span></div>
+<div class="participle-border">~ Beim <span class="de_verb">{{c1::zwingend::zwingen}}</span> denkt er daran ~</div>
 <div class="participle-border">~ Das Objekt ist <span class="de_verb">{{c1::gezwungen::zwingen}}</span> worden ~</div>
 <div class="infinitive-border">Das Verb in<br><span class="cloze_hilite">er zwingt</span><br>ist zu <span class="de_verb">{{c1::zwingen}}</span></div>

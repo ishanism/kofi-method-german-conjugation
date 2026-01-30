@@ -8,14 +8,14 @@ person_order = ["tag:ich", "tag:du", "tag:er/sie/es",
                 "tag:wir", "tag:ihr", "tag:sie/Sie", "tag:ihr/Sie"]
 
 
-modal_verbs = ["können", "müssen", "wollen", "sollen", "dürfen", "mögen"]
+modal_verbs = ["können", "müssen", "sollen", "dürfen", "mögen"]
 
 templates = {
     "Präsens": "<div class=\"present-border\">⊙ Jetzt gerade, ⊙<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
     "Ind. Präteritum": "<div class=\"preterit-border\">← Gestern, ←<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
     "Sub. Präteritum": "<div class=\"subjunctive-border\">↫ Wenn es möglich wäre, ↫<br>{2} <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
-    "Imperativs": "<div class=\"imperative-border\">¡ Los jetzt, !<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
-    "Partizip I": "<div class=\"participle-border\">~ Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er nach ~</div>",
+    "Imperativs": "<div class=\"imperative-border\">! Los, jetzt !<br><span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span></div>",
+    "Partizip I": "<div class=\"participle-border\">~ Beim <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> denkt er daran ~</div>",
     "Partizip II": "<div class=\"participle-border\">~ Das Objekt ist <span class=\"de_verb\">{{{{c1::{0}::{1}}}}}</span> worden ~</div>",
     "Infinitiv": "<div class=\"infinitive-border\">Das Verb in<br><span class=\"cloze_hilite\">er {1}</span><br>ist zu <span class=\"de_verb\">{{{{c1::{0}}}}}</span></div>"
 }
