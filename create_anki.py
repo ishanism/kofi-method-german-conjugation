@@ -36,6 +36,7 @@ def create_anki_deck(verb_data):
             {"name": "UUID"},
             {"name": "Notes"},
             {"name": "Sound"},
+            {"name": "Links"},
         ],
         templates=[
             {
@@ -46,10 +47,16 @@ def create_anki_deck(verb_data):
             <div class="back">
             <br /><br />
             &mdash;<br />
-            Notes:{{Notes}}
+            Notes: {{Notes}}
             <br />
             &mdash;<br />
-
+            {{#Links}}
+            <br />
+            <div class="resource_links">
+            🔗 Resources: {{Links}}
+            </div>
+            <br />
+            {{/Links}}
             {{#Tags}}
             <span class='tag_SECTION'>
             tags: <span class='tags'>{{Tags}}</span>

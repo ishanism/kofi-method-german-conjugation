@@ -331,4 +331,24 @@ Snippets:
   border-radius: 8px;
   margin: 10px 0;
 }
+
+/* Resource links styling */
+.resource_links {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 10px;
+}
+
+.resource-link {
+  color: rgb(88, 157, 246);
+  text-decoration: none;
+  border-bottom: 1px dashed rgb(88, 157, 246);
+  padding: 2px 5px;
+  margin: 0 3px;
+}
+
+.resource-link:hover {
+  color: rgb(255, 128, 64);
+  border-bottom: 1px solid rgb(255, 128, 64);
+}
 """
