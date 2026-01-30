@@ -153,7 +153,6 @@ def create_anki_deck(verb_data):
             audio = conjugated_audio(verb_name, verb_name)
             audio_files.append(audio)
             all_notes.append(make_note(kofi_model, sentence, note, tags, audio))
-            break
 
     ordered_notes = order_notes(all_notes)
     my_deck = genanki.Deck(deck_id=ge_deck_id, name=ge_deck_name)
@@ -168,6 +167,14 @@ def create_anki_deck(verb_data):
 # Main execution
 verb_data = parse_verb_file("Konjugationen.txt")
 anki_deck, audio_files = create_anki_deck(verb_data)
-genanki.Package(anki_deck, media_files=audio_files).write_to_file(
+
+# Filter out audio files that don't exist (when Azure credentials are not configured)
+existing_audio_files = [f for f in audio_files if os.path.exists(f)]
+if len(existing_audio_files) < len(audio_files):
+    print(f"\nNote: {len(audio_files) - len(existing_audio_files)} audio files were skipped (Azure credentials not configured)")
+    print("The deck will be created without audio files.")
+
+genanki.Package(anki_deck, media_files=existing_audio_files).write_to_file(
     "kofi_german_conjugation.apkg"
 )
+print(f"\n✓ Successfully created kofi_german_conjugation.apkg with {len(anki_deck.notes)} cards!")
